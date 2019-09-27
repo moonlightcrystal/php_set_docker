@@ -1,7 +1,8 @@
 # php_set_docker
 web with webserver
 
-if you have docker-compose use for work 
+if you have docker-compose use command
+ 
 docker-compose up
 
 or have not 
