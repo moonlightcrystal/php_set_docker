@@ -6,4 +6,4 @@ if you have docker-compose use command
 docker-compose up
 
 or have not 
-https://docs.docker.com/compose/install/
+look and follow this https://docs.docker.com/compose/install/
